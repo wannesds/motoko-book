@@ -93,10 +93,10 @@
 - [Advanced Concepts](advanced-concepts.md)
 
   - [Async Programming](advanced-concepts/async-programming.md)
-    - [Canisters](advanced-concepts/async-programming/canisters.md)
-    - [Async Calls and Await](advanced-concepts/async-programming/async-calls-and-await.md)
+    - [Inter Canister Calls](advanced-concepts/async-programming/inter-canister-calls.md)
+    - [Async and Await](advanced-concepts/async-programming/async-and-await.md)
     - [Errors and Traps](advanced-concepts/async-programming/errors-and-traps.md)
-    - [Cross Canister Calls and Rollbacks](advanced-concepts/async-programming/cross-canister-calls-and-rollbacks.md)
+    - [State Rollbacks](advanced-concepts/async-programming/state-rollbacks.md)
     - [Async* and Await*](advanced-concepts/async-programming/internal-async-await.md)
   - [Scalability](advanced-concepts/scalability.md)
     - [Stable Storage](advanced-concepts/scalability/stable-storage.md)
@@ -109,12 +109,12 @@
     - [Pre-upgrade and Post-upgrade](advanced-concepts/system-apis/preupgrade-postupgrade.md)
     - [Cryptographic Randomness](advanced-concepts/system-apis/randomness.md)
 
-- [Canister Deployment and Upgrading](project-deployment.md)
+- [Project Deployment](project-deployment.md)
 
   - [Installing the SDK](project-deployment/installing-sdk.md)
   - [Local Deployment](project-deployment/local-deployment.md)
-  - [PEM Files](project-deployment/pem-files.md)
   - [Canister Status](project-deployment/canister-status.md)
+  - [Identities and PEM Files](project-deployment/identities-and-pem-files.md)
   - [Cycles and ICP](project-deployment/cycles-and-icp.md)
   - [Cycles Wallet](project-deployment/cycles-wallet.md)
   - [IC Deployment](project-deployment/ic-deployment.md)
@@ -122,7 +122,7 @@
 - [Common Internet Computer Canisters](common-internet-computer-canisters.md)
 
   - [IC Management Canister](common-internet-computer-canisters/ic-management-canister.md)
-  - [ICP Ledger](common-internet-computer-canisters/ledger.md)
+  - [ICP Ledger Canister](common-internet-computer-canisters/icp-ledger-canister.md)
   - [Cycle Minting Canister](common-internet-computer-canisters/cycles-minting-canister.md)
 
 - [Internet Computer Standards](internet-computer-standards.md)

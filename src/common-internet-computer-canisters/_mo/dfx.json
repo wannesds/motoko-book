@@ -1,0 +1,16 @@
+{
+    "canisters": {
+        "ic-management": {
+            "type": "motoko",
+            "main": "ic-management/ic-management-public-functions.mo"
+        },
+        "icp-ledger": {
+            "type": "motoko",
+            "main": "icp-ledger/icp-ledger-public-functions.mo"
+        },
+        "cycle-minting": {
+            "type": "motoko",
+            "main": "cycle-minting/cycle-minting-test.mo"
+        }
+    }
+}
